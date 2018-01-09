@@ -2,8 +2,10 @@
 layout: post
 title:  "How I want to live as a CS professional"
 date:   2018-01-08 14:36:18 -0300
-categories: toptal 
+categories: toptal
 ---
+
+How I want to live as a CS professional
 This blog post is intended to argument why I want to join the Toptal Software Engineers Group. For this purpose, I think the best way is to write about my relationship with programming and CS, and how is it that I want to live doing what I love.
 
 I've known for a long time that I want to work in the computer science area, I've always been fascinated about it, the things you can do and how you can create awesome things out of nothing but pure knowledge. 
@@ -17,7 +19,7 @@ When I was 15 years old I wanted to study music, but then, when I discovered pro
 
 However, now that I started to work full time, my spare time shrunk substantially. There are two things that I love to do in my spare time, the first is working on my personal software project (most of the time I have one, sometimes for learning purposes, sometimes solving a specific need), and the second is playing the piano. 
 
-The thing is, with less spare time I started to worry a lot about my own productivity for both writing software, and improving as a musician. And in this process, I started to realize that my productivity as a programmer has a close relationship with my mental state, just as much playing piano does. I realized that I write better code, faster, and make fewer mistakes when my head is clear and I feel in peace, calm, unangry and happy. 
+The thing is, with less spare time I started to worry a lot about my own productivity for both writing software, and improving as a musician. In this process, I started to realize that my productivity as a programmer has a close relationship with my mental state, just as much playing piano does. I realized that I write better code, faster, and make fewer mistakes when my head is clear and I feel in peace, calm, unangry and happy. 
 
 This discovering made me see clearly what I want in my life: I want to live as an artist, I want to enjoy the art of programming, of solving problems by thinking, just like I enjoy playing a musical piece from start to end after months of practice, but I want to choose the way to do it, I want to choose the projects in which I work, because I know that I'll get the best out of myself by being motivated. Working remotely and self-organized seems like the way to do it, solving problems does not feel like sitting on the computer and write a lot of code, but it's understanding needs, processes, and people, the coding part is little compared with the thinking and designing part.
 
